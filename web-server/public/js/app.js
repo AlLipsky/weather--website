@@ -1,4 +1,3 @@
-console.log('JS print');
 
 
 fetch('http://puzzle.mead.io/puzzle').then(res => {
